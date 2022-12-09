@@ -1,0 +1,19 @@
+yijia@yijia-VirtualBox:~/ece651-sp21-yl730-battleship/src/main/java/edu/duke/yl730/battleship$cd ~
+yijia@yijia-VirtualBox:~$ cd ece651-dev-setup/
+yijia@yijia-VirtualBox:~/ece651-dev-setup$ ls
+clang-format     gradle-6.3-bin.zip  packages-linux.sh  try-emacs
+doc              mac-paste.sh        packages-mac.sh
+emacs-config.sh  newresolved.conf    resolved.conf
+yijia@yijia-VirtualBox:~/ece651-dev-setup$ cd try-emacs/src/main/java/
+yijia@yijia-VirtualBox:~/ece651-dev-setup/try-emacs/src/main/java$ ls
+edu
+yijia@yijia-VirtualBox:~/ece651-dev-setup/try-emacs/src/main/java$ cd edu/duke/
+yijia@yijia-VirtualBox:~/ece651-dev-setup/try-emacs/src/main/java/edu/duke$ ls
+ece651
+yijia@yijia-VirtualBox:~/ece651-dev-setup/try-emacs/src/main/java/edu/duke$ cd ece651/
+yijia@yijia-VirtualBox:~/ece651-dev-setup/try-emacs/src/main/java/edu/duke/ece651$ls
+example
+yijia@yijia-VirtualBox:~/ece651-dev-setup/try-emacs/src/main/java/edu/duke/ece651$ cd example/
+yijia@yijia-VirtualBox:~/ece651-dev-setup/try-emacs/src/main/java/edu/duke/ece651/example$ ls
+App.java  Thing.java  Thing.java~
+yijia@yijia-VirtualBox:~/ece651-dev-setup/try-emacs/src/main/java/edu/duke/ece651/ex

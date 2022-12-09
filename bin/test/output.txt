@@ -1,0 +1,1889 @@
+which kind of player do you want to choose?
+C for computer
+H for human
+
+which kind of player do you want to choose?
+C for computer
+H for human
+
+Submarine
+Submarine
+Destroyer
+Destroyer
+Destroyer
+Battleship
+Battleship
+Battleship
+Carrier
+Carrier
+Submarine
+Submarine
+Destroyer
+Destroyer
+Destroyer
+Battleship
+Battleship
+Battleship
+Carrier
+Carrier
+Player A used a special action
+
+Submarines occupy 0 squares
+Destroyers occupy 0 squares
+Battleships occupy 2 squares
+Carriers occupy 0 squares
+
+Player B used a special action
+
+Submarines occupy 0 squares
+Destroyers occupy 4 squares
+Battleships occupy 0 squares
+Carriers occupy 3 squares
+
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Player A used a special action
+
+Submarines occupy 0 squares
+Destroyers occupy 3 squares
+Battleships occupy 1 squares
+Carriers occupy 0 squares
+
+Attack
+Player B missed!
+Player A used a special action
+
+Player B used a special action
+
+Submarines occupy 0 squares
+Destroyers occupy 0 squares
+Battleships occupy 3 squares
+Carriers occupy 0 squares
+
+Attack
+Player A missed!
+Attack
+Player B missed!
+Player A used a special action
+
+Submarines occupy 2 squares
+Destroyers occupy 4 squares
+Battleships occupy 0 squares
+Carriers occupy 5 squares
+
+Attack
+Player B missed!
+Attack
+Player A missed!
+Player B used a special action
+
+Player A used a special action
+
+Player B used a special action
+
+Submarines occupy 0 squares
+Destroyers occupy 0 squares
+Battleships occupy 5 squares
+Carriers occupy 0 squares
+
+Player A used a special action
+
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Player B used a special action
+
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Player B used a special action
+
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Submarine!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A hit your Carrier!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Submarine!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A hit your Submarine!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A hit your Carrier!
+Attack
+Player B missed!
+Attack
+Player A hit your Submarine!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Carrier!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Carrier!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Carrier!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A hit your Carrier!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Submarine!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Carrier!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A hit your Carrier!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Carrier!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Carrier!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Carrier!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Submarine!
+Attack
+Player B hit your Submarine!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Submarine!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Battleship!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Battleship!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B hit your Destroyer!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A missed!
+Attack
+Player B missed!
+Attack
+Player A hit your Destroyer!
+player2, you are lost

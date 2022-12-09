@@ -1,0 +1,17 @@
+package edu.duke.yl730.battleship;
+
+public class BasicShip implements Ship<Character>{
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
